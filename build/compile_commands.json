@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/Task_5/build",
+  "command": "/usr/bin/gcc   -g -std=gnu99 -o CMakeFiles/sequence_converter.dir/sequence_converter.c.o -c /home/abstract/projects/tutorial2/Task_5/sequence_converter.c",
+  "file": "/home/abstract/projects/tutorial2/Task_5/sequence_converter.c",
+  "output": "CMakeFiles/sequence_converter.dir/sequence_converter.c.o"
+}
+]

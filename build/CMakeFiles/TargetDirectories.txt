@@ -1,0 +1,3 @@
+/home/abstract/projects/tutorial2/Task_5/build/CMakeFiles/sequence_converter.dir
+/home/abstract/projects/tutorial2/Task_5/build/CMakeFiles/edit_cache.dir
+/home/abstract/projects/tutorial2/Task_5/build/CMakeFiles/rebuild_cache.dir

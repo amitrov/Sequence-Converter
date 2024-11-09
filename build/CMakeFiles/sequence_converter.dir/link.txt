@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/sequence_converter.dir/sequence_converter.c.o -o sequence_converter 
